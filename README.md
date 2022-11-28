@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-[Recherche](#recherche) -- [Publications](#publications) -- [Enseignement](#enseignement)
+[Recherche](#recherche) -- [Publications](#publications) -- [Enseignement](#enseignement) -- [Contributions logicielles](#contributions-logicielles)
 
 
 ## Recherche
@@ -69,6 +69,11 @@ Based on Belief Functions in the Coq Proof Assistant »
   - Bases de données (Licence) -- TP
   - Modèles d'Incertitude, de Décision et de Raisonnement (Master 1) -- Cours/TD (Théorie des jeux)
 
+## Contributions logicielles
+
+- 2022
+  - **[coq-belgames](https://github.com/pPomCo/belgames#readme)** : Bibliothèque Coq concernant la théorie des fonctions de croyance et les jeux stratégiques à information incomplète basés sur cette théorie.
+  - **[mathcomp/algebra](https://github.com/math-comp/math-comp/pull/929)** : Proposition (acceptée) d'ajout de nouveaux lemmes à la bibliothèque math-comp (issus de *coq-belgames*).
 
 <!--
 **pPomCo/pPomCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -45,10 +45,10 @@ Mél : pierre.pomeret [at] irit.fr
 - **→2008 :** Formation en alternance auprès de la Fédération Compagnonique des Métiers du Bâtiment à Toulouse, <br />
               Obtention du Certificat d'Aptitudes Professionnelles *Carreleur Mosaïste*,
 - **→2018 :** Licence d'informatique à l'Universite Toulouse III Paul Sabatier, <br />
-              Obtention de la Licence d'Informatique mention [TODO],
+              Obtention de la Licence d'Informatique mention *Très Bien*,
 - **→2020 :** Master d'informatique *Données et connaissances* à l'Université Toulouse III Paul Sabatier, <br />
-              Obtention du Master *Données et connaissances** mention [TODO],
-- **→2023 (?):** Doctorat à l'Institut de Recherche en Informatique,
+              Obtention du Master *Données et connaissances** mention *Très bien*,
+- **→2023 (?):** Doctorat à l'Institut de Recherche en Informatique de Toulouse (IRIT),
 
 ### Expériences professionnelles et stages
 
@@ -85,7 +85,7 @@ Mél : pierre.pomeret [at] irit.fr
 		<td>Licence 1</td>
 		<td>Très bien</td>
 		<td>17,744 / 20</td>
-		<td>1et sur 1483</td>
+		<td>1er sur 1483</td>
 	</tr>
 	<tr>
 		<td>Licence 2</td>
@@ -109,11 +109,11 @@ Mél : pierre.pomeret [at] irit.fr
 		<td>Master 2</td>
 		<td>Très bien</td>
 		<td>17,217 / 20</td>
-		<td>2er sur 15</td>
+		<td>2ème sur 15</td>
 	</tr>
 </table>
 
-- Bourse doctorale MSRI (Délivrée par l'organisme CIMI)
+- Bourse doctorale MSRI (délivrée par l'organisme CIMI)
 
 ### Encadrement d'activités de recherche
 

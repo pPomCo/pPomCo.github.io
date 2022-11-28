@@ -76,6 +76,8 @@ Based on Belief Functions in the Coq Proof Assistant »
   - **[coq-belgames](https://github.com/pPomCo/belgames#readme)** : Coq library concerning the theory of belief function and strategic games with incomplete information based on this theory.
   - **[mathcomp/algebra](https://github.com/math-comp/math-comp/pull/929)** : (Accepted) proposal to add new lemmas to the math-comp library (from *boq-belgames*)
 
+*Translated by Deepl*
+
 <!--
 **pPomCo/pPomCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

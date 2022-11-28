@@ -41,13 +41,13 @@ Mél : pierre.pomeret [at] irit.fr
 
 - **→1998 :** Primaire puis 6ᵉ en horaires aménagés avec le Conservatoire National de Reims,
 - **→2004 :** Collège puis lycée standard à Toulouse, <br />
-              Obtension du Baccalaureat Scientifique *option Mathématiques*,
+              Obtention du Baccalaureat Scientifique *option Mathématiques*,
 - **→2008 :** Formation en alternance auprès de la Fédération Compagnonique des Métiers du Bâtiment à Toulouse, <br />
-              Obtension du Certificat d'Aptitudes Professionnelles *Carreleur Mosaïste*,
+              Obtention du Certificat d'Aptitudes Professionnelles *Carreleur Mosaïste*,
 - **→2018 :** Licence d'informatique à l'Universite Toulouse III Paul Sabatier, <br />
-              Obtension de la Licence d'Informatique mention [TODO],
+              Obtention de la Licence d'Informatique mention [TODO],
 - **→2020 :** Master d'informatique *Données et connaissances* à l'Université Toulouse III Paul Sabatier, <br />
-              Obtension du Master *Données et connaissances** mention [TODO],
+              Obtention du Master *Données et connaissances** mention [TODO],
 - **→2023 (?):** Doctorat à l'Institut de Recherche en Informatique,
 
 ### Expériences professionnelles et stages

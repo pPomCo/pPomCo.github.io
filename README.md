@@ -1,3 +1,5 @@
+[See this page in english](/presentation_en.html)
+
 # Pierre Pomeret-Coquot
 
 <table>
@@ -13,7 +15,7 @@
 <li><strong>Mél :</strong> pierre.pomeret [at] irit.fr</li>
 <li><strong>Localisation :</strong> UPS / IRIT1 / Niveau 4, Bureau 420</li>
 <li><strong>Publications :</strong> <a href="#publications">🗎</a></li>
-<li><strong>CV :</strong> <a href="/CV_fr.md">🇫🇷</a> <a href="/CV_en.md">🇬🇧</a></li>
+<li><strong>CV :</strong> <a href="/CV_fr.html">🇫🇷</a> <a href="/CV_en.html">🇬🇧</a></li>
 </ul>
 </td>
 </tr>
@@ -35,22 +37,21 @@
 ### Articles de recherche
 
 - 2021
-  - Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Jeux incomplets algébriques ». In Rencontres des Jeunes Chercheurs en Intelligence Artificielle (RJCIA 2021) @ Plate-Forme Intelligence Artificielle (PFIA 2021), 46‑53. Bordeaux, France, 2021. https://hal.archives-ouvertes.fr/hal-03298722.
-  - Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Games of Incomplete Information: A Framework Based on Belief Functions ». In 16th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2021), 12897:328‑41. Lecture Notes in Computer Science book series (LNCS). Prague, Czech Republic: Springer International Publishing, 2021. https://doi.org/10.1007/978-3-030-86772-0_24.
+  - Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Jeux incomplets algébriques ». In Rencontres des Jeunes Chercheurs en Intelligence Artificielle (RJCIA 2021) @ Plate-Forme Intelligence Artificielle (PFIA 2021), 46‑53. Bordeaux, France, 2021. [https://hal.archives-ouvertes.fr/hal-03298722](https://hal.archives-ouvertes.fr/hal-03298722).
+  - Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Games of Incomplete Information: A Framework Based on Belief Functions ». In 16th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2021), 12897:328‑41. Lecture Notes in Computer Science book series (LNCS). Prague, Czech Republic: Springer International Publishing, 2021. [https://doi.org/10.1007/978-3-030-86772-0_24](https://doi.org/10.1007/978-3-030-86772-0_24).
 - 2022
-  - Pomeret-Coquot, Pierre, Hélène Fargier, et Érik Martin-Dorel. « Games of Incomplete Information: a Framework Based on Belief Functions », mai 2022. Pré-publication (preprint) -  https://ut3-toulouseinp.hal.science/hal-03658700.
+  - Pomeret-Coquot, Pierre, Hélène Fargier, et Érik Martin-Dorel. « Games of Incomplete Information: a Framework Based on Belief Functions », mai 2022. Pré-publication (preprint) -  [https://ut3-toulouseinp.hal.science/hal-03658700](https://ut3-toulouseinp.hal.science/hal-03658700).
 
 
 ### Exposés et présentations
 
 - 2022 
-  - **EJCIM 2022** Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Bel-Games: A Formal Theory of Games of Incomplete Information Based on Belief Functions in the Coq Proof Assistant ». In Ecole Jeunes Chercheuses et Chercheurs en Informatique Mathématique. Nice, France: Maison de la Modélisation, de la Simulation et des Interactions [MSI], 2022. https://hal.archives-ouvertes.fr/hal-03709703.
+  - **EJCIM 2022** Fargier, Hélène, Érik Martin-Dorel, et Pierre Pomeret-Coquot. « Bel-Games: A Formal Theory of Games of Incomplete Information Based on Belief Functions in the Coq Proof Assistant ». In Ecole Jeunes Chercheuses et Chercheurs en Informatique Mathématique. Nice, France: Maison de la Modélisation, de la Simulation et des Interactions [MSI], 2022. [https://hal.archives-ouvertes.fr/hal-03709703](https://hal.archives-ouvertes.fr/hal-03709703).
   - **Café FSL** : Présentation de « Bel-Games: A Formal Theory of Games of Incomplete Information 
 Based on Belief Functions in the Coq Proof Assistant »
 - 2021
   - **RJCIA 2021** : Présentation de l'article « Jeux Incomplets Algébriques » à RJCIA
   - **TYPES 2021** : Présentation de la preuve Coq concernant l'article » Jeux incomplets Algébriques » 
-- Autres ? = Exposés d'équipe
 
 ## Enseignement
 
